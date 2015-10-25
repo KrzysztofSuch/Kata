@@ -229,7 +229,10 @@
     <Compile Include="Results\ChallengeResult.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="TestoweKlasy\Fetch.cs" />
+<<<<<<< HEAD
     <Compile Include="TestoweKlasy\RockStar.cs" />
+=======
+>>>>>>> origin/master
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
