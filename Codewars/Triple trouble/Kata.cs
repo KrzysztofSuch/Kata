@@ -5,7 +5,6 @@ public class Kata
 {
     public static int TripleDouble(long num1, long num2)
     {
-        var isThereTriple = false;
 
         var num1String = num1.ToString();
 
