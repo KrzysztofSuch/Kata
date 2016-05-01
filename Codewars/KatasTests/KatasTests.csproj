@@ -51,6 +51,7 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="DigitalRootsTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Remove_the_minimumTests.cs" />
   </ItemGroup>
