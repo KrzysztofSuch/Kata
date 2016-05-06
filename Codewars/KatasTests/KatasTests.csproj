@@ -52,7 +52,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="DigitalRootsTests.cs" />
-    <Compile Include="Playing_on_a_chessboardTests.cs" />
+    <Compile Include="GapInPrimesTests.cs" />
+    <Compile Include="PlayingOnAChessboardTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Remove_the_minimumTests.cs" />
     <Compile Include="Tribonacci_SequenceTests.cs" />
