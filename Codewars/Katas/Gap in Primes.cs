@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 public class GapInPrimes
 {
-    public static long[] Gap(int g, long m, int n)
+    public static long[] Gap(int g, long m, long n)
     {
         var allPrimes = AtkinPrimeNumbersGenerator.Primes(n);
 

@@ -12,12 +12,12 @@ namespace Katas.Tests
     public class PlayingOnAChessboardTests
     {
         [Test]
-        public void Playing_on_a_chessboard_Test01()
+        public void Playing_on_a_chessboard_GameVal_is_0()
         {
             Assert.AreEqual("[0]", PlayingOnAChessboard.Game(0));
         }
         [Test]
-        public void Playing_on_a_chessboard_Test02()
+        public void Playing_on_a_chessboard_GameVal_is_1()
         {
             Assert.AreEqual("[1, 2]", PlayingOnAChessboard.Game(1));
         }
