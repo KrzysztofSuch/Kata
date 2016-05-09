@@ -3,14 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triple trouble", "Triple trouble\Triple trouble.csproj", "{D874EA50-879B-49FF-98EC-6F01E970618A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleTroubleTests", "TripleTroubleTests\TripleTroubleTests.csproj", "{067456C0-086C-46A8-B37F-1405717B7BFC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descending Order", "Descending Order\Descending Order.csproj", "{DA6E9111-3CBF-4E56-B416-28458DA889F3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descending OrderTests", "Descending OrderTests\Descending OrderTests.csproj", "{40D5CED8-BBD1-4FFA-B48A-4304C5B285F3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katas", "Katas\Katas.csproj", "{3BF837D8-EF22-42C6-AB6A-43900188BFE0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatasTests", "KatasTests\KatasTests.csproj", "{F23BBE54-2D41-482D-8D80-4530628EE6D6}"
@@ -21,22 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D874EA50-879B-49FF-98EC-6F01E970618A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D874EA50-879B-49FF-98EC-6F01E970618A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D874EA50-879B-49FF-98EC-6F01E970618A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D874EA50-879B-49FF-98EC-6F01E970618A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DA6E9111-3CBF-4E56-B416-28458DA889F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA6E9111-3CBF-4E56-B416-28458DA889F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA6E9111-3CBF-4E56-B416-28458DA889F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA6E9111-3CBF-4E56-B416-28458DA889F3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{40D5CED8-BBD1-4FFA-B48A-4304C5B285F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40D5CED8-BBD1-4FFA-B48A-4304C5B285F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40D5CED8-BBD1-4FFA-B48A-4304C5B285F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40D5CED8-BBD1-4FFA-B48A-4304C5B285F3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3BF837D8-EF22-42C6-AB6A-43900188BFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3BF837D8-EF22-42C6-AB6A-43900188BFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF837D8-EF22-42C6-AB6A-43900188BFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU

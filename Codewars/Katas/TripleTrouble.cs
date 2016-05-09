@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public class Kata
+public class TripleTrouble
 {
     public static int TripleDouble(long num1, long num2)
     {

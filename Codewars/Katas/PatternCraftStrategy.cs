@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Katas
+namespace Katas.PatternCraftStrategy
+
 {
 
     public interface IUnit

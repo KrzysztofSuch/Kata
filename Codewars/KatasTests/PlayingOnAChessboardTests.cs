@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Katas.Tests
+namespace KatasWaitList
 {
     [TestFixture()]
     public class PlayingOnAChessboardTests

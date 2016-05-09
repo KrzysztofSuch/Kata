@@ -7,12 +7,8 @@ using System.Threading.Tasks;
 namespace Descending_Order
 {
 
-    public static class Kata
+    public static class DescendingOrderKata
     {
-        static void Main(string[] args)
-        {
-        }
-
         public static int DescendingOrder(int num)
         {
             var charsList = num.ToString().ToList();

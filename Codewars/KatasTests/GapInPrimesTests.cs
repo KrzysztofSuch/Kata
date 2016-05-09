@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Katas.Tests
+namespace KatasTests
 {
     [TestFixture]
     public static class GapInPrimesTests

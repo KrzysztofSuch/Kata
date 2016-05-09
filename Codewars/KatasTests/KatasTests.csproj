@@ -51,8 +51,11 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="DescendingOrderKataTests.cs" />
     <Compile Include="DigitalRootsTests.cs" />
     <Compile Include="GapInPrimesTests.cs" />
+    <Compile Include="KataTests.cs" />
+    <Compile Include="PatternCraftStateTests.cs" />
     <Compile Include="PatternCraftStrategyTests.cs" />
     <Compile Include="PlayingOnAChessboardTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

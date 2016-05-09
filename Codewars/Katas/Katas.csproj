@@ -43,14 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DescendingOrderKata.cs" />
     <Compile Include="DigitalRoot.cs" />
     <Compile Include="Gap in Primes.cs" />
+    <Compile Include="PatternCraftState.cs" />
     <Compile Include="PatternCraftStrategy.cs" />
     <Compile Include="PlayingOnAChessboard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Remove the minimum.cs" />
     <Compile Include="Tribonacci Sequence.cs" />
+    <Compile Include="TripleTrouble.cs" />
     <Compile Include="Utils\Atkin.cs" />
   </ItemGroup>
   <ItemGroup>
