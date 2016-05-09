@@ -23,7 +23,8 @@ namespace Katas.PatternCraftState
     {
         public SiegeState()
         {
-
+            CanMove = false;
+            Damage = 20;
         }
 
         public bool CanMove { get; set; }
@@ -34,7 +35,8 @@ namespace Katas.PatternCraftState
     {
         public TankState()
         {
-
+            CanMove = true;
+            Damage = 5;
         }
 
         public bool CanMove { get; set; }
@@ -45,12 +47,12 @@ namespace Katas.PatternCraftState
     {
         public Tank()
         {
-
+            State = new TankState();
         }
 
         public IUnitState State { get; set; }
 
-        public bool CanMove { get; }
-        public int Damage { get; }
+        public bool CanMove => State.CanMove;
+        public int Damage => State.Damage;
     }
 }
