@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CSharp6Lab.cs" />
     <Compile Include="DescendingOrderKata.cs" />
     <Compile Include="DigitalRoot.cs" />
     <Compile Include="Gap in Primes.cs" />
@@ -51,8 +52,8 @@
     <Compile Include="PlayingOnAChessboard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Remove the minimum.cs" />
-    <Compile Include="Tribonacci Sequence.cs" />
+    <Compile Include="RemoveTheMinimum.cs" />
+    <Compile Include="TribonacciSequence.cs" />
     <Compile Include="TripleTrouble.cs" />
     <Compile Include="Utils\Atkin.cs" />
   </ItemGroup>

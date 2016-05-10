@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 namespace KatasTests
 {
     [TestFixture()]
-    public class Remove_the_minimumTests
+    public class RemoveTheMinimumTests
     {
         private static void Tester(List<int> argument, List<int> expectedResult)
         {
-            CollectionAssert.AreEqual(expectedResult, Remove_the_minimum.RemoveSmallest(argument));
+            CollectionAssert.AreEqual(expectedResult, RemoveTheMinimum.RemoveSmallest(argument));
         }
         [Test]
         public static void RemoveSmallest_BasicTests()

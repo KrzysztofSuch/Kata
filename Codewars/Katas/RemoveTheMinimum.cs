@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Katas
 {
-    public class Remove_the_minimum
+    public class RemoveTheMinimum
     {
         public static List<int> RemoveSmallest(List<int> numbersList)
         {

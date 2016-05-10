@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Katas
 {
-    public class Tribonacci_Sequence
+    public class TribonacciSequence
     {
         public double[] Tribonacci(double[] signature, int n)
         {
