@@ -1,13 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Katas.PatternCraftStrategy
-
+﻿namespace Katas
 {
-
     public interface IUnit
     {
         int Position { get; set; }
@@ -51,5 +43,21 @@ namespace Katas.PatternCraftStrategy
         {
             MoveBehavior.Move(this);
         }
+    }
+
+    public class Vrite : IUnit
+    {
+        public int Position { get; set; }
+
+        public void Move()
+        {
+            if (MoveBehavior == null)
+            {
+                MoveBehavior = new Fly();
+            }
+            this.MoveBehavior.Move(this);
+        }
+
+        public IMoveBehavior MoveBehavior { get; set; }
     }
 }

@@ -1,18 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Katas;
-using Katas.PatternCraftStrategy;
+﻿using Katas;
 using NUnit.Framework;
-
 
 namespace KatasTests
 {
-
-
-
     [TestFixture]
     public class PatternCraftStrategyTests
     {
@@ -51,5 +41,19 @@ namespace KatasTests
             viking.Move();
             Assert.AreEqual(11, viking.Position);
         }
+
+        [Test]
+        public void _3_MoveVrite()
+        {
+            IUnit v = new Vrite();
+
+            Assert.AreEqual(0, v.Position);
+
+            v.Move();
+
+            Assert.AreEqual(10,v.Position);
+
+        }
+
     }
 }

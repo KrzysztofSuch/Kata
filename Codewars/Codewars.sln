@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katas", "Katas\Katas.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatasTests", "KatasTests\KatasTests.csproj", "{F23BBE54-2D41-482D-8D80-4530628EE6D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxOne", "RxOne\RxOne.csproj", "{880CF8B7-E401-4309-B1D4-DC424094485C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F23BBE54-2D41-482D-8D80-4530628EE6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F23BBE54-2D41-482D-8D80-4530628EE6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F23BBE54-2D41-482D-8D80-4530628EE6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880CF8B7-E401-4309-B1D4-DC424094485C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880CF8B7-E401-4309-B1D4-DC424094485C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880CF8B7-E401-4309-B1D4-DC424094485C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880CF8B7-E401-4309-B1D4-DC424094485C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

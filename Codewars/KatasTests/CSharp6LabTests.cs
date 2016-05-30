@@ -1,29 +1,15 @@
-﻿using NUnit.Framework;
-using KatasLab;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using KatasLab;
+using NUnit.Framework;
 
-namespace KatasLab.Tests
+namespace KatasTests
 {
     [TestFixture()]
     public class CSharp6LabTests
     {
-
-        class MyTestException : Exception
-        {
-            public MyTestException(String message) : base(message)
-            {
-            }
-        }
-
         [Test()]
         public void NewOperatorTest()
         {
-            var p = new CSharp6Lab.Person();
-            p.Name = "tom";
+            var p = new CSharp6Lab.Person {Name = "tom"};
 
             var a= p.Adress?.Street ?? "brak";
 
@@ -35,11 +21,11 @@ namespace KatasLab.Tests
         [Test()]
         public void NewOperatorTest2()
         {
-            var p = new CSharp6Lab.Person();
-            p.Name = "tom";
+            var p = new CSharp6Lab.Person {Name = "tom"};
 
             var a = p.Adress?.Street ??"nie można dodać throw exc :( ";
 
+            Assert.IsTrue(a.Contains("nie można"));
             //throw new MyTestException("aaaa");
 
 
