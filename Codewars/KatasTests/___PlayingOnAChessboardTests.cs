@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace KatasWaitList
 {
     [TestFixture()]
-    public class PlayingOnAChessboardTests
+    public class ___PlayingOnAChessboardTests
     {
         [Test]
         public void Playing_on_a_chessboard_GameVal_is_0()

@@ -58,7 +58,8 @@
     <Compile Include="KataTests.cs" />
     <Compile Include="PatternCraftStateTests.cs" />
     <Compile Include="PatternCraftStrategyTests.cs" />
-    <Compile Include="PlayingOnAChessboardTests.cs" />
+    <Compile Include="PatternCraft\Adapter\MarioTests.cs" />
+    <Compile Include="___PlayingOnAChessboardTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveTheMinimumTests.cs" />
     <Compile Include="TribonacciSequenceTests.cs" />

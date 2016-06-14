@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatasTests", "KatasTests\Ka
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxOne", "RxOne\RxOne.csproj", "{880CF8B7-E401-4309-B1D4-DC424094485C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxSubject", "RxSubject\RxSubject.csproj", "{D2DCD731-5F91-4120-AC14-99E9713519F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryMoqTests", "TryMoqTests\TryMoqTests.csproj", "{DC0AAECC-9151-4553-BEF1-AA8FA3664D98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{880CF8B7-E401-4309-B1D4-DC424094485C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{880CF8B7-E401-4309-B1D4-DC424094485C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{880CF8B7-E401-4309-B1D4-DC424094485C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2DCD731-5F91-4120-AC14-99E9713519F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DCD731-5F91-4120-AC14-99E9713519F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DCD731-5F91-4120-AC14-99E9713519F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DCD731-5F91-4120-AC14-99E9713519F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0AAECC-9151-4553-BEF1-AA8FA3664D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0AAECC-9151-4553-BEF1-AA8FA3664D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0AAECC-9151-4553-BEF1-AA8FA3664D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0AAECC-9151-4553-BEF1-AA8FA3664D98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
