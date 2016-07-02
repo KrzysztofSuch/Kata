@@ -1,0 +1,50 @@
+﻿<svg id="OpenLayers.Layer.Vector.RootContainer_100_svgRoot" width="1530" height="866" viewBox="0 0 1530 866"
+     style="display: block;">
+  <g id="OpenLayers.Layer.Vector.RootContainer_100_root" transform="translate(-171.9999999999808,-31.000000000023647)"
+     style="visibility: visible;">
+    <g id="OpenLayers.Layer.Vector.RootContainer_100_vroot"></g>
+    <g id="OpenLayers.Layer.Vector.RootContainer_100_troot"></g>
+  </g>
+  <g id="OpenLayers.Layer.Vector_44_root" transform="translate(-171.9999999999808,-31.000000000023647)"
+     style="visibility: visible;">
+    <g id="OpenLayers.Layer.Vector_44_vroot"></g><g id="OpenLayers.Layer.Vector_44_troot"></g>
+  </g>
+  <g id="OpenLayers.Layer.Vector_97_root" transform="translate(-171.9999999999808,-31.000000000023647)"
+     style="visibility: visible;">
+    <g id="OpenLayers.Layer.Vector_97_vroot"></g><g id="OpenLayers.Layer.Vector_97_troot"></g>
+  </g>
+  <g id="OpenLayers.Layer.Vector_42_root" transform="" style="visibility: visible;">
+    <g id="OpenLayers.Layer.Vector_42_vroot">
+      <polyline id="OpenLayers.Geometry.LineString_16295"
+                points="521.9887817779379,268.91539466334416,524.0513453334927,260.72211774788593" fill="none"
+                stroke="#C129CC" stroke-opacity="1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"
+                stroke-dasharray="none" pointer-events="visiblePainted">
+      </polyline>
+      <polyline id="OpenLayers.Geometry.LineString_9885" points="524.0659088890488,260.54045607840635" fill="none"
+                stroke="#C129CC" stroke-opacity="1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"
+                stroke-dasharray="none" pointer-events="visiblePainted">
+      </polyline>
+      <polyline id="OpenLayers.Geometry.LineString_9904" points="524.0649986668268,260.5436431700018" fill="none"
+                stroke="#C129CC" stroke-opacity="1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"
+                stroke-dasharray="none" pointer-events="visiblePainted">
+      </polyline>
+      <polyline id="OpenLayers.Geometry.LineString_16299"
+                points="524.0668191112711,260.5452367152029,545.3450840001606,204.45383093756573,536.1163408890491,186.84908966137664,529.3315444446041,191.92544315279792"
+                fill="none" stroke="#C129CC" stroke-opacity="1" stroke-width="4" stroke-linecap="round"
+                stroke-linejoin="round" pointer-events="visiblePainted">
+      </polyline>
+      <polyline id="OpenLayers.Geometry.LineString_16301"
+                points="529.3215320001602,191.93349761652098,529.3033275557157,191.92061046964136" fill="none"
+                stroke="#C129CC" stroke-opacity="1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"
+                stroke-dasharray="none" pointer-events="visiblePainted">
+      </polyline>
+      <polyline id="OpenLayers.Geometry.LineString_16303"
+                points="529.3178911112714,191.90127970005597,529.1340262223823,192.0849196242816" fill="none"
+                stroke="#C129CC" stroke-opacity="1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"
+                stroke-dasharray="none" pointer-events="visiblePainted">
+      </polyline>
+      
+    </g>
+    <g id="OpenLayers.Layer.Vector_42_troot"></g>
+  </g>
+</svg>
