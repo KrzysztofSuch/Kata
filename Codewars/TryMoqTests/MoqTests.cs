@@ -17,7 +17,6 @@ namespace TryMoqTests
             customerMock.Setup(x => x.Seller.Name).Returns("Tom");
 
             //            customerMock.Raise(m => m.FooEvent += null, new FooEventArgs(5));
-//            5.ShouldBe(3);
             "ss".ShouldBe("ss");
 
 

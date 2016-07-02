@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxSubject", "RxSubject\RxSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryMoqTests", "TryMoqTests\TryMoqTests.csproj", "{DC0AAECC-9151-4553-BEF1-AA8FA3664D98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryAutoFac", "AutoFac\TryAutoFac.csproj", "{11130FE1-C82E-4026-8BBC-EDF8BDA26975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryDevJavaInstalledVerifayer", "TryDevJavaInstalledVerifayer\TryDevJavaInstalledVerifayer.csproj", "{909A1BA1-4B76-4C3D-98E0-4E2E4ACE4F3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{DC0AAECC-9151-4553-BEF1-AA8FA3664D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC0AAECC-9151-4553-BEF1-AA8FA3664D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC0AAECC-9151-4553-BEF1-AA8FA3664D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11130FE1-C82E-4026-8BBC-EDF8BDA26975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11130FE1-C82E-4026-8BBC-EDF8BDA26975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11130FE1-C82E-4026-8BBC-EDF8BDA26975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11130FE1-C82E-4026-8BBC-EDF8BDA26975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909A1BA1-4B76-4C3D-98E0-4E2E4ACE4F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909A1BA1-4B76-4C3D-98E0-4E2E4ACE4F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909A1BA1-4B76-4C3D-98E0-4E2E4ACE4F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909A1BA1-4B76-4C3D-98E0-4E2E4ACE4F3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
