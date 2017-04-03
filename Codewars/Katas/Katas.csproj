@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="4kyu\RankingPokerHand\PokerHand.cs" />
     <Compile Include="CSharp6Lab.cs" />
     <Compile Include="DescendingOrderKata.cs" />
     <Compile Include="DigitalRoot.cs" />
@@ -62,7 +63,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="4kyu\Readme.md" />
+    <None Include="4kyu\RankingPokerHand\Readme.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
